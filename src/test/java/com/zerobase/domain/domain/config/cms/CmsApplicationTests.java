@@ -1,4 +1,4 @@
-package com.zerobase.cms;
+package com.zerobase.domain.domain.config.cms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
